@@ -4,9 +4,9 @@ This project is a simple business card designed for a frontend developer, Jose G
 
 ## Preview
 
-Include an image or a link to showcase how your business card looks.
 
-![Business Card Preview](link-to-image)
+
+![Business Card Preview](images/buisness-card.png)
 
 ## Description
 
