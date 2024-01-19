@@ -18,3 +18,11 @@ This project consists of a basic HTML and CSS code to create a visually appealin
 
    ```bash
    git clone https://github.com/jguzman42/business-card.git
+
+2. Navigate to the Project Directory
+   ```bash
+   cd business-card
+
+3. Open the HTML File
+   ```bash
+   start index.html
