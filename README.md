@@ -17,4 +17,4 @@ This project consists of a basic HTML and CSS code to create a visually appealin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/business-card.git
+   git clone https://github.com/jguzman42/business-card.git
